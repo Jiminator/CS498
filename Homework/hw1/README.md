@@ -48,6 +48,7 @@ Cluster Assignments:
         ```bash
         export GLOO_SOCKET_IFNAME=enp4s0f1
         export MASTER_ADDR=10.x.x.x
+        test change
         ```
       * **Important:** If this variable is not set correctly, the distributed job maybe hang forever, and you will need to close the terminal session and reopen. 
       * **Note** We recommend to set the `MASTER_ADDR` stays the same across nodes, and the `GLOO_SOCKET_IFNAME` is the same among worker nodes, and is different from the `GLOO_SOCKET_IFNAME` of the master node. However, during the ping test, if you encounter `Destination Host Unreachable` error on any of the worker nodes, just switch the network interface to the same one used in the master node.
