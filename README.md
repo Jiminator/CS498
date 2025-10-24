@@ -46,11 +46,11 @@ Note that this course is **NOT focused on AI methods**.  Instead, we will *focus
 | Oct 15     | Course Project Proposal Feedback                      |  Fan Lai             |        |     Assignment 1 Due                   |
 | Oct 17     | Efficient Machine Learning for Intelligent Machines (Guest Lecture)                                          |  Chenfeng Xu             |        |                        |
 | Oct 22     | Inference Overview                                     | Fan Lai       | [Slides](./Slides/L12_inference_overview.pdf)        |   [Speculative Decoding](https://arxiv.org/abs/2211.17192) |
-| Oct 24     | Batch Serving Techniques                               | Fan Lai       |        |   [DistServe](https://arxiv.org/abs/2401.09670)            |
+| Oct 24     | Batch Serving Techniques                               | Fan Lai       | [Slides](./Slides/L13_inference_scheduling.pdf)        |   [DistServe](https://arxiv.org/abs/2401.09670)            |
 | Oct 29     | Paged Attention                                        | Fan Lai       |        |    [SGLang](https://arxiv.org/abs/2312.07104)                     |
 | Oct 31     | Adaptive KV                                            | Fan Lai       |        |    Assignment 2 Released            |
 | Nov 5      | Quantization                                           | Fan Lai       |        |   [AWQ](https://arxiv.org/abs/2306.00978)                  |
-| Nov 7      |  LLM Inference Scheduling                          | Fan Lai       |        |    Mid-semester Report Due            |			
+| Nov 7      |  MoE Efficiency                          | Fan Lai       |        |    Mid-semester Report Due            |			
 | Nov 12     | Advanced topics: RAG Systems                               | Fan Lai       |        |    [MoonCake](https://www.usenix.org/conference/fast25/presentation/qin)             |
 | Nov 14     | Advanced topics: Caching GenAI                         | Yifan Yu       |        |  [NIAVANA](https://www.usenix.org/conference/nsdi24/presentation/agarwal-shubham)      |
 | Nov 19     | Guest Lecture                                   			  |  Zhengzhong Tu     |        |       Assignment 2 Due,  Assignment 3 Released (for 4-credit students)                |
